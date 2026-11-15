@@ -1,0 +1,6 @@
+{
+  "name": "SocksFlow",
+  "description": "Fast SOCKS5 proxy VPN client for Android with split tunneling, latency testing, and live traffic monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
